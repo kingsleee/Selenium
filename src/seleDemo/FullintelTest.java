@@ -30,7 +30,8 @@ public class FullintelTest {
 
 		// String url = "http://fullintel.com/3.5.4/login?error=true";
 		// driver.getCurrentUrl();
-
+		
+		//Anlyst username and password
 		analystUsername.sendKeys("anumanthu.e@capestart.com");
 		analystPassword.sendKeys("nahibeta");
 		loginButton.submit();
